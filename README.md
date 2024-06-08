@@ -4,8 +4,8 @@
 
 **Objective:** 
 
-        1. Employees can use the Slack bot to submit their expenses directly through Slack, including details such as amount, category, and receipt images.
-        
-        2. The bot prompts the employee to upload a receipt with details like expense amount, category (e.g., travel, meals).
-        
-        3. The bot sends a notification to the employee's manager or the designated approver, asking them to review and approve the expense.
+1. Employees can use the Slack bot to submit their expenses directly through Slack, including details such as amount, category, and receipt images.
+          
+2. The bot prompts the employee to upload a receipt with details like expense amount, category (e.g., travel, meals).
+   
+3. The bot sends a notification to the employee's manager or the designated approver, asking them to review and approve the expense.
