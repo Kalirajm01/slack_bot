@@ -20,10 +20,8 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model.load_state_dict(torch.load(saved_model_path, map_location=device))
 model.eval()
 
-
 class TextRequest(BaseModel):
     text: str
-
 
 @app.post('/predict')
 async def predict(request: TextRequest):
