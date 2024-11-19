@@ -9,3 +9,7 @@
 2. The bot prompts the employee to upload a receipt with details like expense amount, category (e.g., travel, meals).
    
 3. The bot sends a notification to the employee's manager or the designated approver, asking them to review and approve the expense.
+
+
+
+<img width="3488" alt="Team - 1 Slack_Bot-Architectural_Diagram" src="https://github.com/user-attachments/assets/19373856-200e-457d-8276-d48cc9c29eae">
